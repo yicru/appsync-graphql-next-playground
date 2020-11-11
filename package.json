@@ -1,0 +1,8 @@
+{
+  "name": "appsync-next-playground",
+  "version": "1.0.0",
+  "author": "miyamae",
+  "license": "MIT",
+  "private": true,
+  "workspaces": []
+}
