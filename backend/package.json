@@ -1,8 +1,8 @@
 {
-  "name": "backend",
+  "name": "appsync-next-playground-backend",
   "version": "0.1.0",
   "bin": {
-    "backend": "bin/backend.js"
+    "backend": "bin/appsync-next-playground-backend.js"
   },
   "scripts": {
     "build": "tsc",
