@@ -1,5 +1,6 @@
 import { AppProps } from 'next/app'
 import Amplify from 'aws-amplify'
+import '../css/tailwind.css'
 
 const amplifyConfig = require('../../aws-exports')
 
