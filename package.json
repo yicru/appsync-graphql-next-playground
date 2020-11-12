@@ -4,5 +4,7 @@
   "author": "miyamae",
   "license": "MIT",
   "private": true,
-  "workspaces": []
+  "workspaces": [
+    "backend"
+  ]
 }
